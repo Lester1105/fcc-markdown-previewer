@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-markdown-previewer/static/css/main.f0f050f0.chunk.css",
+    "main.js": "/fcc-markdown-previewer/static/js/main.a3fba15e.chunk.js",
+    "main.js.map": "/fcc-markdown-previewer/static/js/main.a3fba15e.chunk.js.map",
+    "runtime-main.js": "/fcc-markdown-previewer/static/js/runtime-main.bbfe8a49.js",
+    "runtime-main.js.map": "/fcc-markdown-previewer/static/js/runtime-main.bbfe8a49.js.map",
+    "static/js/2.a3ba2c8d.chunk.js": "/fcc-markdown-previewer/static/js/2.a3ba2c8d.chunk.js",
+    "static/js/2.a3ba2c8d.chunk.js.map": "/fcc-markdown-previewer/static/js/2.a3ba2c8d.chunk.js.map",
+    "static/js/3.965b2540.chunk.js": "/fcc-markdown-previewer/static/js/3.965b2540.chunk.js",
+    "static/js/3.965b2540.chunk.js.map": "/fcc-markdown-previewer/static/js/3.965b2540.chunk.js.map",
+    "index.html": "/fcc-markdown-previewer/index.html",
+    "static/css/main.f0f050f0.chunk.css.map": "/fcc-markdown-previewer/static/css/main.f0f050f0.chunk.css.map",
+    "static/js/2.a3ba2c8d.chunk.js.LICENSE.txt": "/fcc-markdown-previewer/static/js/2.a3ba2c8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfe8a49.js",
+    "static/js/2.a3ba2c8d.chunk.js",
+    "static/css/main.f0f050f0.chunk.css",
+    "static/js/main.a3fba15e.chunk.js"
+  ]
+}
